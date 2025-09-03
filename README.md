@@ -1,24 +1,26 @@
-# Simple-Text-Editor-
-This is a simple text editor application built using Python and Tkinter. The application provides basic functionalities for creating, opening, and saving text files. It features a user-friendly graphical interface with a colorful design, making it easy to write and edit text.
+# 📝 Simple Text Editor (Python Tkinter)
 
-**Features** :
+A beginner-friendly **Text Editor application** built with **Python Tkinter**.  
+It provides basic functionalities like creating, opening, editing, and saving text files.
 
-New File: Clear the current text area to start a new document.
+---
 
-Open File: Browse and open existing text files.
+## 🛠️ Tech Stack
+- **Python 3**
+- **Tkinter** (built-in Python library)
 
-Save File: Save the current content to a new or existing text file.
+---
 
-
-**Requirements** :
-
-Python 3.x
-Tkinter (comes pre-installed with Python on most distributions)
-
+## ⚙️ Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/text-editor-app.git
+   cd text-editor-app
+   
+2. **Run the app**
+    ```bash
+    python text_editor.py
+    
+---
 
 ![Screenshot 2024-10-03 105432](https://github.com/user-attachments/assets/d3c07aca-1131-4887-b829-513aa4936aba)
-
-
-**Usage** :
-Open the application and use the buttons at the top to create a new file, open an existing file, or save your current document.
-The text area below allows for easy text entry and editing.
